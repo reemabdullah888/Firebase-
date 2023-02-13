@@ -1,0 +1,4569 @@
+[ {
+  "Churn" : "Yes",
+  "customerID" : "8779-QRDMV",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3841-NFECX",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "4929-XIHVW",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "3413-BMNZE",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8012-SOUDQ",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "6575-SUVOI",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7495-OOKFY",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "4667-QONEA",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1658-BYGOY",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "5067-XJQFU",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "1891-QRQSA",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "2673-CXQEU",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "0191-ZHSKZ",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "2424-WVHPL",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4598-XLKNJ",
+  "tenure" : 25
+}, {
+  "Churn" : "No",
+  "customerID" : "5386-THSLQ",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4846-WHAFZ",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4412-YLTKF",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "2639-UGMAZ",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0390-DCFDQ",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3146-MSEGF",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "1131-QQZEB",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3445-HXXGF",
+  "tenure" : 58
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2656-FMOKZ",
+  "tenure" : 15
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2070-FNEXE",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "2504-DSHIH",
+  "tenure" : 23
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0094-OIFMO",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "9058-HRZSV",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "4522-AKYLR",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "0221-WMXNQ",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9947-OTFQU",
+  "tenure" : 15
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9514-JDSKI",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "5046-NUHWD",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7273-TEFQD",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3606-TWKGI",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "7529-ZDFXI",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "3197-ARFOY",
+  "tenure" : 19
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4385-GZQXV",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "4716-HHKQH",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "3179-GBRWV",
+  "tenure" : 21
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3488-PGMQJ",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7534-BFESC",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "4847-TAJYI",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "6851-WEFYX",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8098-LLAZX",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0265-EDXBD",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "3167-SNQPL",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "2799-ARNLO",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2840-XANRC",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5020-ZSTTY",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "5701-YVSVF",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5804-LEPIM",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "5697-GOMBF",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "2739-CACDQ",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "6035-BXTTY",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "0021-IKXGC",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4654-DLAMQ",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "4115-NZRKS",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0623-IIHUG",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "3351-NGXYI",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9057-MSWCO",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "8204-YJCLA",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4895-TMWIR",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0533-BNWKF",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "9774-NRNAU",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "0224-RLWWD",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "3951-NJCVI",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "0177-PXBAT",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "2519-ERQOJ",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "0111-KLBQG",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0334-GDDSO",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "1996-DBMUS",
+  "tenure" : 48
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5564-NEMQO",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2055-SIFSS",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "2806-MLNTI",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "5628-RKIFK",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "5760-WRAHC",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "1480-BKXGA",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "9076-AXYIK",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "4933-IKULF",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "3780-DDGSE",
+  "tenure" : 35
+}, {
+  "Churn" : "No",
+  "customerID" : "4612-SSVHJ",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "5756-OZRIO",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6235-VDHOM",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "4513-CXYIX",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5609-CEBID",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "4332-MUOEZ",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5956-VKDTT",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "6705-LXORM",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0257-ZESQC",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "4109-CYRBD",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "8606-CIQUL",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "0356-OBMAC",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "1297-VQDRP",
+  "tenure" : 68
+}, {
+  "Churn" : "No",
+  "customerID" : "4676-MQUEA",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "7025-WCBNE",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "6030-REHUX",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "6522-YRBXD",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2865-TCHJW",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5192-EBGOV",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3419-SNJJD",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "6689-VRRTK",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "7134-MJPDY",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "4881-JVQOD",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "6797-UCJHZ",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "2469-DTSGX",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4554-YGZIH",
+  "tenure" : 49
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5099-BAILX",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4913-EHYUI",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "4908-XAXAY",
+  "tenure" : 49
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1626-ERCMM",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5644-PDMZC",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "3509-GWQGF",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4160-AMJTL",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0823-HSCDJ",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "3729-OWRVL",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "7251-LJBQN",
+  "tenure" : 40
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0067-DKWBL",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "2682-KEVRP",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "9978-HYCIN",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "8329-UTMVM",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "6952-OMNWB",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5244-IRFIH",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "6549-YMFAW",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2684-EIWEO",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "1307-TVUFB",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "7503-MIOGA",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2499-AJYUA",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "6919-ELBGL",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "3966-HRMZA",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6683-VLCTZ",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0691-IFBQW",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "5671-RQRLP",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "4785-NKHCX",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3643-AHCFP",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9231-ZJYAM",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "4250-WAROZ",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0727-BMPLR",
+  "tenure" : 55
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0947-MUGVO",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "3523-BRGUW",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "2123-AGEEN",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "1258-YMZNM",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "6259-WJQLC",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0781-LKXBR",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1907-UBQFC",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "7508-SMHXL",
+  "tenure" : 15
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6513-EECDB",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3956-CJUST",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "4824-GUCBY",
+  "tenure" : 22
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7074-IEVOJ",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4750-ZRXIU",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "6630-UJZMY",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "9904-EHEVJ",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7028-DVOIQ",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4208-UFFGW",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "2826-DXLQO",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "9489-UTFKA",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "4849-PYRLQ",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9889-TMAHG",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8919-FYFQZ",
+  "tenure" : 44
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6646-QVXLR",
+  "tenure" : 62
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9369-XFEHK",
+  "tenure" : 33
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1374-DMZUI",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1989-PRJHP",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "2858-EIMXH",
+  "tenure" : 53
+}, {
+  "Churn" : "No",
+  "customerID" : "6419-ZTTLE",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "8242-SOQUO",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "7460-ITWWP",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "7868-TMWMZ",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4822-RVYBB",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4184-TJFAN",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4145-UQXUQ",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1236-WFCDV",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1271-SJBGZ",
+  "tenure" : 12
+}, {
+  "Churn" : "No",
+  "customerID" : "4829-ZLJTK",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "8883-GRDWQ",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "9845-PEEKO",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "1751-NCDLI",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4441-NIHPT",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8999-BOHSE",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7029-RPUAV",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "2176-LVPNX",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8111-SLLHI",
+  "tenure" : 39
+}, {
+  "Churn" : "No",
+  "customerID" : "3452-ABWRL",
+  "tenure" : 47
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5293-WXJAK",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "1779-PWPMG",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "3082-WQRVY",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "2460-NGXBJ",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "5268-DSMNQ",
+  "tenure" : 62
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4086-YQSNZ",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "6242-MBHPK",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "4782-OSFXZ",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "1282-IHQAC",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "1641-RQDAY",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "5461-QKNTN",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8399-YNDCH",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "8089-UZWLX",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "4468-KAZHE",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "1543-LLLFT",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5565-FILXA",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "6507-ZJSUR",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "9220-ZNKJI",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "0723-VSOBE",
+  "tenure" : 45
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4187-CINZD",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6818-WOBHJ",
+  "tenure" : 68
+}, {
+  "Churn" : "No",
+  "customerID" : "1004-NOZNR",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "1251-STYSZ",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "9681-KYGYB",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "7005-CYUIL",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "2388-LAESQ",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9134-CEQMF",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "3108-PCCGG",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "6729-GDNGC",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8519-IMDHU",
+  "tenure" : 15
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3372-KWFBM",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7206-GZCDC",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1768-ZAIFU",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3793-MMFUH",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "4238-HFHSN",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6567-HOOPW",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8621-MNIHH",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5419-CONWX",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7024-OHCCK",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "2692-BUCFV",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "5651-WYIPH",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5357-TZHPP",
+  "tenure" : 9
+}, {
+  "Churn" : "No",
+  "customerID" : "8752-GHJFU",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "6896-SRVYQ",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "9052-VKDUW",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0506-LVNGN",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "2480-EJWYP",
+  "tenure" : 58
+}, {
+  "Churn" : "No",
+  "customerID" : "6806-YDEUL",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "0222-CNVPT",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "6048-UWKAL",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "9290-SHCMB",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "2277-BKJKN",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9809-IMGCQ",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "8016-ZMGMO",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3254-YRILK",
+  "tenure" : 19
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0529-ONKER",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "1728-CXQBE",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "0481-SUMCB",
+  "tenure" : 45
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5240-IJOQT",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2811-POVEX",
+  "tenure" : 23
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0661-XEYAN",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7905-NJMXS",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "9957-YODKZ",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "3223-DWFIO",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2660-EMUBI",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "3292-PBZEJ",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7675-OZCZG",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "0993-OSGPT",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9391-EOYLI",
+  "tenure" : 12
+}, {
+  "Churn" : "No",
+  "customerID" : "7108-DGVUU",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "9906-NHHVC",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "8152-UOBNY",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "7351-KYHQH",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2761-OCIAX",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3068-OMWZA",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "6374-NTQLP",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4154-AQUGT",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8017-LXHFA",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "6267-DCFFZ",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "2439-LYPMQ",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4248-QPAVC",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4690-LLKUA",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9490-DFPMD",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "7426-WEIJX",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8580-AECUZ",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3761-FLYZI",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5047-LHVLY",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1060-ENTOF",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "0999-QXNSA",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "9365-SRSZE",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "4918-FYJNT",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "4854-CIDCF",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "3280-MRDOF",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "6407-UTSLV",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "5935-FCCNB",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8375-DKEBR",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "9705-IOVQQ",
+  "tenure" : 61
+}, {
+  "Churn" : "No",
+  "customerID" : "1320-REHCS",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "2057-BOYKM",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "0134-XWXCE",
+  "tenure" : 44
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7279-BUYWN",
+  "tenure" : 41
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7156-MHUGY",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "2307-FYNNL",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "5605-XNWEN",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2519-LBNQL",
+  "tenure" : 60
+}, {
+  "Churn" : "No",
+  "customerID" : "8623-ULFNQ",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "7789-HKSBS",
+  "tenure" : 42
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9606-PBKBQ",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "2070-XYMFH",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "5663-QBGIS",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3536-IQCTX",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "3402-XRIUO",
+  "tenure" : 22
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3132-TVFDZ",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8080-DDEMJ",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8058-DMYRU",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "3537-RYBHH",
+  "tenure" : 47
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6702-OHFWR",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4510-PYUSH",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "0523-VNGTF",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "7105-MXJLL",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "7064-FRRSW",
+  "tenure" : 48
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8840-DQLGN",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4193-ORFCL",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1636-NTNCO",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7776-QWNFX",
+  "tenure" : 30
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6689-TCZHQ",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "3219-JQRSL",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "1845-CSBRZ",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "3723-BFBGR",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9497-QCMMS",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "5692-ICXLW",
+  "tenure" : 31
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3424-NMNBO",
+  "tenure" : 58
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4514-GFCFI",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8000-REIQB",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7020-OZKXZ",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4795-KTRTH",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "0308-GIQJT",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "8775-ERLNB",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8309-IEYJD",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7361-YPXFS",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "6557-BZXLQ",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9961-JBNMK",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "4832-VRBMR",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6179-GJPSO",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "7901-TBKJX",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "9919-FZDED",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8290-YWKHZ",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "7206-PQBBZ",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8051-HJRLT",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4079-VTGLK",
+  "tenure" : 30
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4021-RQSNY",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "2931-VUVJN",
+  "tenure" : 59
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9061-TIHDA",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8699-ASUFO",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "2878-RMWXY",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7375-WMVMT",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4695-WJZUE",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3988-RQIXO",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7622-FWGEW",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5931-FLJJF",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "0380-NEAVX",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3207-OYBWH",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7216-EWTRS",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8495-LJDFO",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "1302-UHBDD",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2528-HFYZX",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "3597-YASZG",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "3420-ZDBMA",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "3398-GCPMU",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "1013-QCWAM",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "0336-PIKEI",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7322-OCWHC",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "5732-IKGQH",
+  "tenure" : 52
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4140-MUHUG",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "0093-EXYQL",
+  "tenure" : 40
+}, {
+  "Churn" : "No",
+  "customerID" : "9168-INPSZ",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "0015-UOCOJ",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "5334-AFQJB",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2754-SDJRD",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1587-FKLZB",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "1465-LNTLJ",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5440-FLBQG",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "4706-DGAHW",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8552-OBVRU",
+  "tenure" : 48
+}, {
+  "Churn" : "No",
+  "customerID" : "9776-OJUZI",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2774-LVQUS",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "0869-PAPRP",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "4238-JSSWH",
+  "tenure" : 35
+}, {
+  "Churn" : "No",
+  "customerID" : "9121-PHQSR",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4612-THJBS",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4094-NSEDU",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "9796-MVYXX",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "7268-IGMFD",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1846-XWOQN",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "0013-SMEOE",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3757-NJYBX",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "2573-GYRUU",
+  "tenure" : 48
+}, {
+  "Churn" : "No",
+  "customerID" : "6486-LHTMA",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "4083-BFNYK",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "1089-HDMKP",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9898-KZQDZ",
+  "tenure" : 40
+}, {
+  "Churn" : "No",
+  "customerID" : "0141-YEAYS",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "9603-OAIHC",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "8406-LNMHF",
+  "tenure" : 59
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8263-JQAIK",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0023-UYUPN",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "6360-SVNWV",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "9050-IKDZA",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2205-YMZZJ",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1254-IZEYF",
+  "tenure" : 31
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9221-OTIVJ",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5908-QMGOE",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "1197-BVMVG",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "5198-EFNBM",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "7516-GMHUV",
+  "tenure" : 50
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0397-GZBBC",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "6614-YWYSC",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7641-EUYET",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "8735-SDUFN",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7016-NVRIC",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8922-LIEGH",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8245-UMPYT",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5186-SAMNZ",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5373-SFODM",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0022-TCJCI",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "9825-YCXWZ",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "2000-DHJUY",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "9796-BPKIW",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "9137-NOQKA",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5130-IEKQT",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3269-ATYWD",
+  "tenure" : 39
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0354-WYROK",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "7748-UMTRK",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "6463-MVYRY",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7576-OYWBN",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "4526-ZJJTM",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5539-TMZLF",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3336-JORSO",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "5315-CKEQK",
+  "tenure" : 28
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6861-XWTWQ",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "0907-HQNTS",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "8250-ZNGGW",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "8166-ORCHU",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "1855-CFULU",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4283-FUTGF",
+  "tenure" : 19
+}, {
+  "Churn" : "No",
+  "customerID" : "8628-MFKAX",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2397-BRLOM",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "9508-ILZDG",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8510-AWCXC",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "6128-AQBMT",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "4295-YURET",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8225-BTJAU",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "7693-QPEFS",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "0924-BJCRC",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1724-BQUHA",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4826-XTSOH",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2408-WITXK",
+  "tenure" : 10
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2634-HCZGT",
+  "tenure" : 53
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7503-QQRVF",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "5533-NHFRF",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0709-TVGUR",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3001-CBHLQ",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "4360-QRAVE",
+  "tenure" : 37
+}, {
+  "Churn" : "No",
+  "customerID" : "8433-WPJTV",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4102-OQUPX",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3999-QGRJH",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2454-RPBRZ",
+  "tenure" : 12
+}, {
+  "Churn" : "No",
+  "customerID" : "5387-ASZNZ",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2265-CYWIV",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "2277-DJJDL",
+  "tenure" : 60
+}, {
+  "Churn" : "No",
+  "customerID" : "6963-EZQEE",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "2452-KDRRH",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4550-VBOFE",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "5248-RPYWW",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7923-IYJWY",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7409-KIUTL",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1732-VHUBQ",
+  "tenure" : 47
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0679-IDSTG",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1658-TJVOA",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "0674-DGMAQ",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "2761-XECQW",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "8059-UDZFY",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "7740-BTPUX",
+  "tenure" : 55
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8802-UNOJF",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6313-GIDIT",
+  "tenure" : 53
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2845-AFFTX",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "8648-PFRMP",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2815-CPTUL",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "8996-ZROXE",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "2207-QPJED",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1891-FZYSA",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "0516-QREYC",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9685-WKZGT",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6022-UGGSO",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "3865-QBWSJ",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "5857-TYBCJ",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "4176-RELJR",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3923-CSIHK",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "7924-GJZFI",
+  "tenure" : 25
+}, {
+  "Churn" : "No",
+  "customerID" : "5897-ZYEKH",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "5456-ITGIC",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3677-IYRBF",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8118-LSUEL",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "8070-AAWZP",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5277-ZLOOR",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4248-HCETZ",
+  "tenure" : 30
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9174-FKWZE",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "6860-YRJZP",
+  "tenure" : 9
+}, {
+  "Churn" : "No",
+  "customerID" : "9391-DXGGG",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "9844-FELAJ",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5307-DZCVC",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8679-JOEVF",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "8395-ETZKQ",
+  "tenure" : 68
+}, {
+  "Churn" : "No",
+  "customerID" : "8336-TAVKX",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4803-AXVYP",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5649-ANRML",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0581-BXBUB",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "5150-ITWWB",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "9281-OFDMF",
+  "tenure" : 39
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7395-IGJOS",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7890-VYYWG",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9907-SWKKF",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7636-OWBPG",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6397-JNZZG",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "0549-CYCQN",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "0928-JMXNP",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7779-LGOVN",
+  "tenure" : 10
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9710-ZUSHQ",
+  "tenure" : 37
+}, {
+  "Churn" : "No",
+  "customerID" : "3629-ZNKXA",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "4827-LTQRJ",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3902-FOIGH",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3318-OSATS",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2636-ALXXZ",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "0136-IFMYD",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "5144-TVGLP",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9885-CSMWE",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "9659-ZTWSM",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "2195-VVRJF",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8058-JMEQO",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7657-DYEPJ",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8276-MQBYC",
+  "tenure" : 51
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6015-VVHHE",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "1125-SNVCK",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "2545-EBUPK",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "2172-EJXVF",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "8659-HDIYE",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "4680-KUTAJ",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "2883-ILGWO",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2516-VQRRV",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7580-UGXNC",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5178-LMXOP",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1167-OYZJF",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "4806-DXQCE",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7056-IMHCC",
+  "tenure" : 53
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8749-JMNKX",
+  "tenure" : 51
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0917-EZOLA",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "5996-NRVXR",
+  "tenure" : 40
+}, {
+  "Churn" : "No",
+  "customerID" : "0100-DUVFC",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "5397-TUPSH",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "6773-LQTVT",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8414-MYSHR",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "9402-ORRAH",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "4840-ORQXB",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "3982-DQLUS",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "3756-VNWDH",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "2921-XWDJH",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4988-IQIGL",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "9799-CAYJJ",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "6814-ZPWFQ",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "5019-GQVCR",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4706-AXVKM",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5889-JTMUL",
+  "tenure" : 50
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9026-RNUJS",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "2880-FPNAE",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "1568-BEKZM",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "2045-BMBTJ",
+  "tenure" : 33
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1624-NALOJ",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "6741-EGCBI",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "1730-ZMAME",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "5913-INRQV",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6210-KBBPI",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2260-USTRB",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "6185-TASNN",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8623-TMRBY",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "1925-LFCZZ",
+  "tenure" : 55
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6900-PXRMS",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "8707-RMEZH",
+  "tenure" : 69
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3346-BRMIS",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "9373-WSLOY",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "9819-FBNSV",
+  "tenure" : 37
+}, {
+  "Churn" : "No",
+  "customerID" : "9544-PYPSJ",
+  "tenure" : 62
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2722-JMONI",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3878-AVSOQ",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3258-SYSWS",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7579-OOPEC",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0512-FLFDW",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1771-OADNZ",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "2107-FBPTK",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "1016-DJTSV",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "5699-BNCAS",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "2900-PHPLN",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0612-RTZZA",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4039-PIMHX",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "7826-VVKWT",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4433-JCGCG",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9488-HGMJH",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4818-QIUFN",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6961-VCPMC",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "5288-AHOUP",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "7134-HBPBS",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4424-TKOPW",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "4415-WNGVR",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4201-JMNGR",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1309-XGFSN",
+  "tenure" : 52
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1866-RZZQS",
+  "tenure" : 41
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8631-NBHFZ",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4958-XCBDQ",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8337-UPOAQ",
+  "tenure" : 10
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6712-OAWRH",
+  "tenure" : 26
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5914-DVBWJ",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8644-XLFBW",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "0650-BWOZN",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "4304-XUMGI",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "9481-IEBZY",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1833-VGRUM",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8374-XGEJJ",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6946-LMSQS",
+  "tenure" : 25
+}, {
+  "Churn" : "No",
+  "customerID" : "1080-BWSYE",
+  "tenure" : 64
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4039-HEUNW",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0812-WUPTB",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2403-BCASL",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "3786-WOVKF",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "5816-SCGFC",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "9278-VZKCD",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "8261-GWDBQ",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3871-IKPYH",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "6173-GOLSU",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1304-NECVQ",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "8720-RQSBJ",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5655-JSMZM",
+  "tenure" : 49
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4505-EXZHB",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "7225-CBZPL",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8972-HJWNV",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "3692-JHONH",
+  "tenure" : 52
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2860-RANUS",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "1200-TUZHR",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "7130-CTCUS",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0406-BPDVR",
+  "tenure" : 54
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5276-KQWHG",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0420-HLGXF",
+  "tenure" : 39
+}, {
+  "Churn" : "No",
+  "customerID" : "3657-COGMW",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "4334-HOWRP",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "4098-NAUKP",
+  "tenure" : 68
+}, {
+  "Churn" : "No",
+  "customerID" : "3308-JSGML",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "6199-IWKGC",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "2675-DHUTR",
+  "tenure" : 58
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9667-EQRXU",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "7446-YPODE",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "9522-BNTHX",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "0531-ZZJWQ",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "2688-BHGOG",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0946-CLJTI",
+  "tenure" : 58
+}, {
+  "Churn" : "No",
+  "customerID" : "0916-QOFDP",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0324-BRPCJ",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9189-JWSHV",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0576-WNXXC",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "8910-LEDAG",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "3452-GWUIN",
+  "tenure" : 19
+}, {
+  "Churn" : "No",
+  "customerID" : "7278-CKDNC",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "8450-UYIBU",
+  "tenure" : 35
+}, {
+  "Churn" : "No",
+  "customerID" : "3836-FZSDJ",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "0187-QSXOE",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "7733-UDMTP",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "6904-JLBGY",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "6917-YACBP",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "4223-WOZCM",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "5917-RYRMG",
+  "tenure" : 32
+}, {
+  "Churn" : "No",
+  "customerID" : "8224-DWCKX",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5482-PLVPE",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4902-OHLSK",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0495-ZBNGW",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2357-COQEK",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "1768-HNVGJ",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "4395-PZMSN",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "5446-DKWYW",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2034-CGRHZ",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "8107-KNCIM",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "5451-YHYPW",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7629-WFGLW",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9360-AHGNL",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5485-WUYWF",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "8818-DOPVL",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2632-UCGVD",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "7044-YAACC",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "8189-XRIKE",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6425-YQLLO",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2091-RFFBA",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "3740-RLMVT",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "2186-QZEYA",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6899-PPEEA",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4597-NUCQV",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "5599-HVLTW",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "9208-OLGAQ",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "3244-CQPHU",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2674-MLXMN",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "9708-HPXWZ",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3754-DXMRT",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "5792-JALQC",
+  "tenure" : 52
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7130-VTEWQ",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7903-CMPEY",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2675-OTVVJ",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "0537-QYZZN",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "3340-QBBFM",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1704-NRWYE",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7481-ATQQS",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "2277-VWCNI",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0023-HGHWL",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7576-JMYWV",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "5227-JSCFE",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1792-UXAFY",
+  "tenure" : 17
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6161-UUUTA",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6543-XRMYR",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "1608-GMEWB",
+  "tenure" : 45
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2479-BRAMR",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "2665-NPTGL",
+  "tenure" : 26
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3714-JTVOV",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "0442-ZXKVS",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "0575-CUQOV",
+  "tenure" : 60
+}, {
+  "Churn" : "No",
+  "customerID" : "5329-KRDTM",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "0707-HOVVN",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8580-QVLOC",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2012-NWRPA",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8808-ELEHO",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "9518-XXBXE",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "0423-UDIJQ",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9058-CBREO",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "9029-FEGVJ",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8063-GBATB",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "8999-XXGNS",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "0471-ARVMX",
+  "tenure" : 62
+}, {
+  "Churn" : "No",
+  "customerID" : "7524-VRLPL",
+  "tenure" : 69
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1069-XAIEM",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4884-TVUQF",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "8065-BVEPF",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6987-XQSJT",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "6350-XFYGW",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "8755-IWJHN",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "4480-QQRHC",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "0929-PECLO",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "9470-YFUYI",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "7402-EYFXX",
+  "tenure" : 26
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0722-TROQR",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6402-ZFPPI",
+  "tenure" : 25
+}, {
+  "Churn" : "No",
+  "customerID" : "1986-PHGZF",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9965-YOKZB",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0504-HHAPI",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "8024-XNAFQ",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2988-GBIVW",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3791-LGQCY",
+  "tenure" : 56
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8166-ZZTFS",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "5956-YHHRX",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "6008-NAIXK",
+  "tenure" : 54
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2956-GGUCQ",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "4007-NHVHI",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "8979-CAMGB",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "7813-ZGGAW",
+  "tenure" : 31
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2778-OCLGR",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "6583-KQJLK",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "6139-ZZRBQ",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "7594-LZNWR",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "3996-ZNWYK",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "8760-ZRHKE",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "5216-WASFJ",
+  "tenure" : 31
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7067-KSAZT",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "4948-WBBKL",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9300-AGZNL",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1112-CUNAO",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "8348-JLBUG",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "3339-EAQNV",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3389-YGYAI",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3070-DVEYC",
+  "tenure" : 7
+}, {
+  "Churn" : "No",
+  "customerID" : "5730-RIITO",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5707-ORNDZ",
+  "tenure" : 9
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8696-JKZNU",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2055-PDADH",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "7515-LODFU",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "8041-TMEID",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "6941-KXRRV",
+  "tenure" : 48
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2302-ANTDP",
+  "tenure" : 48
+}, {
+  "Churn" : "No",
+  "customerID" : "4501-UYKBC",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5233-GEEAX",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "5304-EFJLP",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "8875-AKBYH",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "0533-UCAAU",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "1394-SUIUH",
+  "tenure" : 44
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7137-RYLPP",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3957-LXOLK",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "8565-WUXZU",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5281-BUZGT",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2718-GAXQD",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "2055-BFOCC",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "4584-LBNMK",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "3898-GUYTS",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "3703-KBKZP",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "5117-IFGPS",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3217-FZDMN",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7480-QNVZJ",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "2197-OMWGI",
+  "tenure" : 68
+}, {
+  "Churn" : "No",
+  "customerID" : "7852-LECYP",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "8595-SIZNC",
+  "tenure" : 22
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7124-UGSUR",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1862-SKORY",
+  "tenure" : 40
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4816-JBHOV",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "8920-NAVAY",
+  "tenure" : 62
+}, {
+  "Churn" : "No",
+  "customerID" : "9699-UBQFS",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "1261-FWTTE",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "3528-HFRIQ",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "3320-VEOYC",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3247-ZVOUO",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "9758-MFWGD",
+  "tenure" : 48
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1268-ASBGA",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4713-LZDRV",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4325-NFSKC",
+  "tenure" : 19
+}, {
+  "Churn" : "No",
+  "customerID" : "1360-JYXKQ",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "6925-BAYGL",
+  "tenure" : 53
+}, {
+  "Churn" : "No",
+  "customerID" : "4135-FRWKJ",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "6551-ZCOTS",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "5995-SNNEW",
+  "tenure" : 23
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6502-HCJTI",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8258-GSTJK",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2995-UPRYS",
+  "tenure" : 40
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6686-YPGHK",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "5371-VYLSX",
+  "tenure" : 50
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8020-BWHYL",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "4128-ETESU",
+  "tenure" : 47
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6892-XPFPU",
+  "tenure" : 24
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8010-EZLOU",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "3295-YVUSR",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "8016-NCFVO",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "4119-ZYPZY",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "1078-TDCRN",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "5439-WIKXB",
+  "tenure" : 41
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8062-YBDOE",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3672-YITQD",
+  "tenure" : 36
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8988-ECPJR",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3776-EKTKM",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2080-CAZNM",
+  "tenure" : 41
+}, {
+  "Churn" : "No",
+  "customerID" : "1028-FFNJK",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "3001-UNBTL",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "0786-IVLAW",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0643-OKLRP",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "4282-ACRXS",
+  "tenure" : 38
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9381-NDKME",
+  "tenure" : 24
+}, {
+  "Churn" : "No",
+  "customerID" : "7668-XCFYV",
+  "tenure" : 17
+}, {
+  "Churn" : "No",
+  "customerID" : "5336-UFNZP",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "9233-PSYHO",
+  "tenure" : 45
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8327-LZKAS",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1075-BGWOH",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "8777-MBMTS",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8485-GJCDN",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "2615-YVMYX",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "2851-STERV",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6029-WTIPC",
+  "tenure" : 37
+}, {
+  "Churn" : "No",
+  "customerID" : "5419-JKZNQ",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "1409-PHXTF",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "9591-YVTEB",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "9309-BZGNT",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "8075-GXIUB",
+  "tenure" : 9
+}, {
+  "Churn" : "No",
+  "customerID" : "6723-WSNTY",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3317-HRTNN",
+  "tenure" : 5
+}, {
+  "Churn" : "No",
+  "customerID" : "2144-BFDSO",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "5647-FXOTP",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5569-OUICF",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "6078-VESFR",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "9866-OCCKE",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5747-PMBSQ",
+  "tenure" : 10
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2982-IHMFT",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5143-EGQFK",
+  "tenure" : 10
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6168-WFVVF",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "2786-GCDPI",
+  "tenure" : 50
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7450-NWRTR",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6005-OBZPH",
+  "tenure" : 26
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7932-WPTDS",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "3733-UOCWF",
+  "tenure" : 61
+}, {
+  "Churn" : "No",
+  "customerID" : "8490-BXHEO",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "7173-TETGO",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "6435-VWCCY",
+  "tenure" : 65
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7000-WCEVQ",
+  "tenure" : 20
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5959-BELXA",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2506-TNFCO",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "6726-NNFWD",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6060-DRTNL",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8473-VUVJN",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "7856-GANIL",
+  "tenure" : 45
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0196-VULGZ",
+  "tenure" : 6
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1976-CFOCS",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4631-OACRM",
+  "tenure" : 15
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3755-JBMNH",
+  "tenure" : 16
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6345-ULYRW",
+  "tenure" : 44
+}, {
+  "Churn" : "No",
+  "customerID" : "0248-PGHBZ",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "7472-EQOAV",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "5985-BEHZK",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "9279-CJEOJ",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "8029-XYPWT",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "6646-JPPHA",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "7658-UYUQS",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "8746-BFOAJ",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "8023-QHAIO",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "8133-ANHHJ",
+  "tenure" : 49
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0013-EXCHZ",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5550-VFRLC",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2657-ALMWY",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "1707-HABPF",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6284-AHOOQ",
+  "tenure" : 22
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2460-FPSYH",
+  "tenure" : 40
+}, {
+  "Churn" : "No",
+  "customerID" : "6847-KJLTS",
+  "tenure" : 58
+}, {
+  "Churn" : "No",
+  "customerID" : "4619-EVPHY",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "4462-CYWMH",
+  "tenure" : 62
+}, {
+  "Churn" : "No",
+  "customerID" : "9334-GWGOW",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5028-HTLJB",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4291-HYEBC",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "1576-PFZIW",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0875-CABNR",
+  "tenure" : 10
+}, {
+  "Churn" : "No",
+  "customerID" : "0147-ESWWR",
+  "tenure" : 39
+}, {
+  "Churn" : "No",
+  "customerID" : "1217-VASWC",
+  "tenure" : 43
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6982-UQZLY",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2522-WLNSF",
+  "tenure" : 34
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0193-ESZXP",
+  "tenure" : 58
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4369-HTUIF",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "5327-XOKKY",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "3312-ZWLGF",
+  "tenure" : 29
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5287-QWLKY",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "0795-XCCTE",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "7072-MBHEV",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1891-UAWWU",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "8050-DVOJX",
+  "tenure" : 49
+}, {
+  "Churn" : "No",
+  "customerID" : "8169-SAEJD",
+  "tenure" : 69
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3096-JRDSO",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "1580-BMCMR",
+  "tenure" : 19
+}, {
+  "Churn" : "No",
+  "customerID" : "4199-QHJNM",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "5135-GRQJV",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "2384-OVPSA",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "1371-WEPDS",
+  "tenure" : 40
+}, {
+  "Churn" : "No",
+  "customerID" : "3349-ANQNH",
+  "tenure" : 59
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2398-YPMUR",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "5937-EORGB",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "5539-HIVAK",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "4583-PARNH",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "1421-HCERK",
+  "tenure" : 30
+}, {
+  "Churn" : "No",
+  "customerID" : "0716-BQNDX",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1265-XTECC",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4871-JTKJF",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1415-YFWLT",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3500-RMZLT",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "1162-ECVII",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "8695-ARGXZ",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "1697-NVVGY",
+  "tenure" : 19
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2642-DTVCO",
+  "tenure" : 9
+}, {
+  "Churn" : "No",
+  "customerID" : "9112-WSNPU",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1363-TXLSL",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "4976-LNFVV",
+  "tenure" : 19
+}, {
+  "Churn" : "No",
+  "customerID" : "2077-MPJQO",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7136-RVDTZ",
+  "tenure" : 70
+}, {
+  "Churn" : "No",
+  "customerID" : "1480-IVEVR",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6927-WTFIV",
+  "tenure" : 20
+}, {
+  "Churn" : "No",
+  "customerID" : "4118-CEVPF",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3398-ZOUAA",
+  "tenure" : 21
+}, {
+  "Churn" : "No",
+  "customerID" : "2428-HYUNX",
+  "tenure" : 44
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4844-JJWUY",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4785-QRJHC",
+  "tenure" : 46
+}, {
+  "Churn" : "No",
+  "customerID" : "9693-XMUOB",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "1635-NZATJ",
+  "tenure" : 71
+}, {
+  "Churn" : "No",
+  "customerID" : "9943-VSZUV",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1965-AKTSX",
+  "tenure" : 14
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7248-VZQLC",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "9355-NPPFS",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "5828-DWPIL",
+  "tenure" : 62
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0011-IGKFF",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6496-SLWHQ",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9912-GVSEQ",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "2931-FSOHN",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5383-MMTWC",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "9971-ZWPBF",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "8421-WZOOW",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6877-LGWXO",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "2957-JIRMN",
+  "tenure" : 62
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5167-GBFRE",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1324-NLTJE",
+  "tenure" : 15
+}, {
+  "Churn" : "No",
+  "customerID" : "5271-DBYSJ",
+  "tenure" : 11
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5567-WSELE",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "3915-ODIYG",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6646-VRFOL",
+  "tenure" : 53
+}, {
+  "Churn" : "No",
+  "customerID" : "5671-UUNXD",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "4698-KVLLG",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "0282-NVSJS",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9090-SGQXL",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6595-YGXIT",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9835-ZIITK",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "7537-CBQUZ",
+  "tenure" : 63
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5649-TJHOV",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "4750-UKWJK",
+  "tenure" : 37
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9253-QXKBE",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "4884-ZTHVF",
+  "tenure" : 8
+}, {
+  "Churn" : "No",
+  "customerID" : "3055-OYMSE",
+  "tenure" : 53
+}, {
+  "Churn" : "No",
+  "customerID" : "1468-DEFNC",
+  "tenure" : 64
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8775-LHDJH",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3097-NQYSN",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "9605-WGJVW",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3565-UNOCC",
+  "tenure" : 29
+}, {
+  "Churn" : "No",
+  "customerID" : "4627-MIHJH",
+  "tenure" : 69
+}, {
+  "Churn" : "No",
+  "customerID" : "5553-AOINX",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9190-MFJLN",
+  "tenure" : 19
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1095-JUDTC",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "3258-SANFR",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "4833-QTJNO",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5385-SUIRI",
+  "tenure" : 52
+}, {
+  "Churn" : "No",
+  "customerID" : "2322-VCZHZ",
+  "tenure" : 23
+}, {
+  "Churn" : "No",
+  "customerID" : "6383-ZTSIW",
+  "tenure" : 39
+}, {
+  "Churn" : "No",
+  "customerID" : "0118-JPNOY",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "9000-PLFUZ",
+  "tenure" : 60
+}, {
+  "Churn" : "No",
+  "customerID" : "7779-ORAEL",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "0644-OQMDK",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "1658-XUHBX",
+  "tenure" : 59
+}, {
+  "Churn" : "No",
+  "customerID" : "2378-HTWFW",
+  "tenure" : 35
+}, {
+  "Churn" : "No",
+  "customerID" : "3719-TDVQB",
+  "tenure" : 54
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6328-ZPBGN",
+  "tenure" : 11
+}, {
+  "Churn" : "No",
+  "customerID" : "0201-MIBOL",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "8495-PRWFH",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "0439-IFYUN",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2856-NNASM",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "6458-CYIDZ",
+  "tenure" : 5
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6769-DYBQN",
+  "tenure" : 46
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2446-BEGGB",
+  "tenure" : 6
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1496-GGSUK",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3296-SILRA",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5180-UCIIQ",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "1932-UEDCX",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "5188-HGMLP",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "5331-RGMTT",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "4476-OSWTN",
+  "tenure" : 69
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1977-STDKI",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5813-UECBU",
+  "tenure" : 33
+}, {
+  "Churn" : "No",
+  "customerID" : "6726-WEXXK",
+  "tenure" : 27
+}, {
+  "Churn" : "Yes",
+  "customerID" : "4342-HENTK",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "4023-RTIQM",
+  "tenure" : 31
+}, {
+  "Churn" : "No",
+  "customerID" : "7872-RDDLZ",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1597-LHYNC",
+  "tenure" : 26
+}, {
+  "Churn" : "No",
+  "customerID" : "3162-KKZXO",
+  "tenure" : 55
+}, {
+  "Churn" : "No",
+  "customerID" : "8904-OPDCK",
+  "tenure" : 54
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8651-ENBZX",
+  "tenure" : 60
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9286-DOJGF",
+  "tenure" : 38
+}, {
+  "Churn" : "No",
+  "customerID" : "6048-QBXKL",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9661-MHUMO",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8884-ADFVN",
+  "tenure" : 7
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2720-WGKHP",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "6734-FQAJX",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "2378-VTKDH",
+  "tenure" : 65
+}, {
+  "Churn" : "No",
+  "customerID" : "2974-GGUXS",
+  "tenure" : 36
+}, {
+  "Churn" : "No",
+  "customerID" : "7994-XIRTR",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "5298-GSTLM",
+  "tenure" : 60
+}, {
+  "Churn" : "No",
+  "customerID" : "6121-TNHBO",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "5119-NZPTV",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9776-CLUJA",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "3865-ZYKAD",
+  "tenure" : 69
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3551-HUAZH",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "2205-LPVGL",
+  "tenure" : 58
+}, {
+  "Churn" : "No",
+  "customerID" : "4868-AADLV",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8634-MPHTR",
+  "tenure" : 47
+}, {
+  "Churn" : "No",
+  "customerID" : "3256-EZDBI",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "4726-DLWQN",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "3518-FSTWG",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2474-BRUCM",
+  "tenure" : 40
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0616-ATFGB",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7235-NXZCP",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0230-UBYPQ",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "1763-KUAAW",
+  "tenure" : 18
+}, {
+  "Churn" : "No",
+  "customerID" : "1104-TNLZA",
+  "tenure" : 28
+}, {
+  "Churn" : "No",
+  "customerID" : "5195-KPUNQ",
+  "tenure" : 53
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6661-HBGWL",
+  "tenure" : 42
+}, {
+  "Churn" : "No",
+  "customerID" : "3908-MKIMJ",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9317-WZPGV",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3621-CEOVK",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "6969-MVBAI",
+  "tenure" : 9
+}, {
+  "Churn" : "No",
+  "customerID" : "2453-SAFNS",
+  "tenure" : 54
+}, {
+  "Churn" : "No",
+  "customerID" : "7426-GSWPO",
+  "tenure" : 64
+}, {
+  "Churn" : "No",
+  "customerID" : "4909-JOUPP",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7632-MNYOY",
+  "tenure" : 66
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9248-OJYKK",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3398-FSHON",
+  "tenure" : 12
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3319-DWOEP",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "6437-UDQJM",
+  "tenure" : 72
+}, {
+  "Churn" : "No",
+  "customerID" : "1226-IENZN",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "3411-WLRSQ",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0818-OCPZO",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "0822-QGCXA",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "3588-WSTTJ",
+  "tenure" : 35
+}, {
+  "Churn" : "No",
+  "customerID" : "3798-EPWRR",
+  "tenure" : 2
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1389-CXMLU",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5561-NWEVX",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "2452-MRMZF",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "2272-QAGFO",
+  "tenure" : 14
+}, {
+  "Churn" : "No",
+  "customerID" : "4989-LIXVT",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3768-NLUBH",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "5481-NTDOH",
+  "tenure" : 67
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7359-SSBJK",
+  "tenure" : 64
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0685-MLYYM",
+  "tenure" : 2
+}, {
+  "Churn" : "No",
+  "customerID" : "0749-IRGQE",
+  "tenure" : 13
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7957-RYHQD",
+  "tenure" : 40
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6230-BSUXY",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "1754-GKYPY",
+  "tenure" : 22
+}, {
+  "Churn" : "No",
+  "customerID" : "1591-MQJTP",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "7471-MQPOS",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3990-QYKBE",
+  "tenure" : 37
+}, {
+  "Churn" : "No",
+  "customerID" : "3259-KNMRR",
+  "tenure" : 57
+}, {
+  "Churn" : "No",
+  "customerID" : "6120-RJKLU",
+  "tenure" : 62
+}, {
+  "Churn" : "No",
+  "customerID" : "4323-OHFOW",
+  "tenure" : 70
+}, {
+  "Churn" : "Yes",
+  "customerID" : "9274-CNFMO",
+  "tenure" : 4
+}, {
+  "Churn" : "No",
+  "customerID" : "6563-VNPMN",
+  "tenure" : 45
+}, {
+  "Churn" : "No",
+  "customerID" : "2267-WTPYD",
+  "tenure" : 57
+}, {
+  "Churn" : "Yes",
+  "customerID" : "3005-NFMTA",
+  "tenure" : 55
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5389-FFVKB",
+  "tenure" : 32
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8444-WRIDW",
+  "tenure" : 66
+}, {
+  "Churn" : "No",
+  "customerID" : "9129-UXERG",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5868-YWPDW",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "6229-LSCKB",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "6127-IYJOZ",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1273-MTETI",
+  "tenure" : 4
+}, {
+  "Churn" : "Yes",
+  "customerID" : "5480-HPRRX",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "8065-QBYTO",
+  "tenure" : 71
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7234-FECYN",
+  "tenure" : 8
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1400-MMYXY",
+  "tenure" : 3
+}, {
+  "Churn" : "No",
+  "customerID" : "7921-LMDFQ",
+  "tenure" : 51
+}, {
+  "Churn" : "No",
+  "customerID" : "5820-PTRYM",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "6211-WHMYA",
+  "tenure" : 64
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7142-HVGBG",
+  "tenure" : 43
+}, {
+  "Churn" : "No",
+  "customerID" : "3454-JFUBC",
+  "tenure" : 68
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1564-NTYXF",
+  "tenure" : 13
+}, {
+  "Churn" : "No",
+  "customerID" : "2451-YMUXS",
+  "tenure" : 67
+}, {
+  "Churn" : "No",
+  "customerID" : "4690-PKDQG",
+  "tenure" : 42
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0886-QGENL",
+  "tenure" : 27
+}, {
+  "Churn" : "No",
+  "customerID" : "7789-CRUVC",
+  "tenure" : 61
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8739-WWKDU",
+  "tenure" : 25
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8685-WHQPW",
+  "tenure" : 22
+}, {
+  "Churn" : "Yes",
+  "customerID" : "7240-FQLHE",
+  "tenure" : 18
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6664-FPDAC",
+  "tenure" : 56
+}, {
+  "Churn" : "No",
+  "customerID" : "9972-VAFJJ",
+  "tenure" : 53
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0786-VSSUD",
+  "tenure" : 16
+}, {
+  "Churn" : "No",
+  "customerID" : "5981-ZVXOT",
+  "tenure" : 35
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6583-QGCSI",
+  "tenure" : 50
+}, {
+  "Churn" : "No",
+  "customerID" : "2274-XUATA",
+  "tenure" : 72
+}, {
+  "Churn" : "Yes",
+  "customerID" : "1980-KXVPM",
+  "tenure" : 3
+}, {
+  "Churn" : "Yes",
+  "customerID" : "0723-DRCLG",
+  "tenure" : 1
+}, {
+  "Churn" : "No",
+  "customerID" : "0666-UXTJO",
+  "tenure" : 34
+}, {
+  "Churn" : "No",
+  "customerID" : "1035-IPQPU",
+  "tenure" : 63
+}, {
+  "Churn" : "No",
+  "customerID" : "2235-DWLJU",
+  "tenure" : 6
+}, {
+  "Churn" : "No",
+  "customerID" : "3605-JISKB",
+  "tenure" : 55
+}, {
+  "Churn" : "Yes",
+  "customerID" : "6894-LFHLY",
+  "tenure" : 1
+}, {
+  "Churn" : "Yes",
+  "customerID" : "8361-LTMKD",
+  "tenure" : 4
+} ]
